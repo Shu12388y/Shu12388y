@@ -18,5 +18,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shu12388y&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shub12388y&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Shub12388y&label=Profile%20Views&color=0&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
